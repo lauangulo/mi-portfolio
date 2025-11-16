@@ -1,2 +1,2 @@
 # mi-portfolio
-web de mi portfolio
+Web para mostrar mis proyectos
